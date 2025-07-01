@@ -11,10 +11,10 @@
 **bold *bold & italics* **
 
 Tech Stack
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 Priority List
-*learn to code
-*get an internship
+1. learn to code
+2. get an internship
