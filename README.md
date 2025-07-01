@@ -18,3 +18,5 @@ Tech Stack
 Priority List
 1. learn to code
 2. get an internship
+
+[logo](shukla_designs_logo.png)
